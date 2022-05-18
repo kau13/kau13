@@ -2,7 +2,7 @@
 
 ### informações
 
-- 👋 ola, eu sou o kau
-- :+1: meu email de contato é kaua.lemos@escola.pr.gov.br
-- 🌱 Estou interessado em aprender programar novas linguagens
-- 💞️ estou aprendendo à programar JavaScript e Scrath
+- 👋 hello, i'm kau
+- :+1: my contact email is kaua.lemos@escola.pr.gov.br
+- 🌱 I'm interested in learning to program new languages
+- 💞️  I'm learning to program JavaScript and Scrath
